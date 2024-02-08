@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "nome": "Açucar",
+        "marca": "união",
+        "categoria": "Mantimentos",
+        "preço": 2.50,
+        "qtd_estoque": 12,
+        "disponibilidade": true
+    
+    },
+    {
+        "id": 2,
+        "nome": "Farinha de Trigo",
+        "marca": "sol",
+        "categoria": "Mantimentos",
+        "preço": 1.85,
+        "qtd_estoque": 22,
+        "disponibilidade": true
+    
+    }
+    {
+        "id": 3,
+        "nome": "Café",
+        "marca": "Melitta",
+        "categoria": "Mantimentos",
+        "preço": 8.90,
+        "qtd_estoque": 0,
+        "disponibilidade": false
+    
+    }
+]
